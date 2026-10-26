@@ -1,0 +1,18 @@
+%%writefile .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+env/
+yolov9_env/
+
+
+
+# Ignore cloned YOLOv9 repository
+yolov9/
+
+
+
